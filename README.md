@@ -1,7 +1,8 @@
 # Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification
 This repository contains the code of our CVPR'2023 paper Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification. We will gradually improve and enhance the code.
 
-##Citation
+## Citation
+
 If you find UIMC helps your research, please cite our paper:
 ```
 @inproceedings{
