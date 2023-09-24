@@ -3,8 +3,7 @@ This repository contains the code of our CVPR'2023 paper Exploring and Exploitin
 
 ##Citation
 If you find UIMC helps your research, please cite our paper:
-
-<kbd style="background-color: #f2f2f2; padding: 5px; border-radius: 4px;">
+```
 @inproceedings{
   UIMC,
   title={Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification},
@@ -13,4 +12,4 @@ If you find UIMC helps your research, please cite our paper:
                     {CVPR} 2023, Vancouver, BC, Canada, June 17-24, 2023},
   year={2023}
 }
-</kbd>
+```
